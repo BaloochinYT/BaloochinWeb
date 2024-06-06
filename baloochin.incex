@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BalooChin - Canal de YouTube</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f3f3;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        .contacto {
+            text-align: center;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BalooChin - Canal de YouTube</h1>
+    </header>
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="https://sites.google.com/view/baloochin/página-principal?authuser=0">Visita mi Página Principal</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+    <div class="container">
+        <h2>Bienvenido a mi canal de YouTube</h2>
+        <p>¡Bienvenido a BalooChin! Aquí encontrarás contenido emocionante sobre...</p>
+        <!-- Contenido de tu canal de YouTube -->
+    </div>
+    <div id="contacto" class="contacto">
+        <h2>Contacto</h2>
+        <p>Puedes contactarme enviando un correo electrónico a: <a href="mailto:baloo.mugica17@gmail.com">baloo.mugica17@gmail.com</a></p>
+    </div>
+</body>
+</html>
